@@ -39,7 +39,7 @@
       </ul>
     <form class="form-inline my-2 my-lg-0" method="GET" action="busqueda.php">
         <input  class="form-control mr-sm-2" type="search" placeholder="Buscar usuario" aria-label="Search" name="busqueda">
-        <input type="prueba" class="btn btn-secondary" value="Buscar" id="boton_buscar"></button>
+        <input type="submit" class="btn btn-secondary" value="Buscar" id="boton_buscar"></button>
     </form>
     </div>
   </nav>
